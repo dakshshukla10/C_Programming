@@ -15,7 +15,7 @@ double exponential(double x_deg,int n){
     result+=pow(x,i)/factorial(i);
   }
   return result;
-}
+}         
 
 int main(){
   double x;
